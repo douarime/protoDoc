@@ -50,7 +50,7 @@ Prototypage
 Entrer le modèle dans l'application du prototypeur
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    
    creer projet
    creer modele

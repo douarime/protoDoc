@@ -2,7 +2,6 @@ Organisation de l'interface web de l'application Prototypeur
 ============================================================
 
 .. image:: ./images/interface.gif
-
 Figure 1: Organisation de l'interface web de l'application.
 
 L'interface du site web du Prototypeur est organisée en trois zones majeures (1, 2 et 3 sur la figure 1) et quatre menus de navigation pour l'interface (4, 5, 6 et 7 sur la figure 1):
