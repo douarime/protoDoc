@@ -24,17 +24,19 @@ Figure 18 : la fenêtre des éléments du formulaire.
 
 La fenêtre des éléments du formulaire affiche dans une arborescence les informations (champs) que le formulaire montrera au moment de l'ouvrir pour un objet sélectionné. À partir de cette fenêtre, il est possible de personnaliser l'affichage et l'ordre d'apparition de champs sur le formulaire. L'ordre d'apparition de champs est défini selon la position de l'objet dans l'arborescence. Il est possible aussi de regrouper les champs à l'intérieur des contenants de type « Fieldset » ou « HTMLset ».
 
-.. image:: ./images/saveform.png
-Enregistrer les modifications du formulaire.
-
-.. image:: ./images/refreshform.png
-Rafraîchir l'aperçu du formulaire (côté droit de la fenêtre).
-
-.. image:: ./images/erasenode.png
-Supprimer un objet dans l'arborescence.
-cacher fenetre 	Cacher la fenêtre des éléments du formulaire de l'interface.
-icone champ 	Icône attribuée aux champs.
-icone des contenants 	Icône attribuée aux contenants de type fieldset et HTML.
++------------------------------------+--------------------------------------------------------------+
+| .. image:: ./images/saveform.png   |  Enregistrer les modifications du formulaire.                |
++------------------------------------+--------------------------------------------------------------+
+| .. image:: ./images/refreshform.png| Rafraîchir l'aperçu du formulaire (côté droit de la fenêtre).|
++------------------------------------+--------------------------------------------------------------+
+| .. image:: ./images/erasenode.png  | Supprimer un objet dans l'arborescence.                      |
++------------------------------------+--------------------------------------------------------------+
+| .. image:: ./images/icon_gauche.png| Cacher la fenêtre des éléments du formulaire de l'interface. |
++------------------------------------+--------------------------------------------------------------+
+| .. image:: ./images/champ.png      | Icône attribuée aux champs.                                  |
++------------------------------------+--------------------------------------------------------------+
+| .. image:: ./images/fieldset.png   | Icône attribuée aux contenants de type fieldset et HTML.     |
++------------------------------------+--------------------------------------------------------------+
 
 Les outils du formulaire
 ^^^^^^^^^^^^^^^^^^^^^^^^

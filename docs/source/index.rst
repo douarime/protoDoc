@@ -4,17 +4,17 @@ Aide en ligne de l'application web prototypeur du Certae
 Structure de l'interface web du Prototypeur
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    
    organisation interface
    menu principal
-   barre message
+   barre_message
 
 
 Grille principale et ses fonctions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    presentation grille
    menu filtrer
@@ -28,7 +28,7 @@ Grille principale et ses fonctions
 Options de la fonction configuration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    option formulaire
    option champs
@@ -43,7 +43,7 @@ Options de la fonction configuration
 Prototypage
 ^^^^^^^^^^^
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    demarche pratique prototypage
    

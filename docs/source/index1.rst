@@ -15,8 +15,7 @@ Contents:
 .. toctree::
     :maxdepth: 2
 
-    demo
-    list
+
 
 Maaaaath!
 =========

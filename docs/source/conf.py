@@ -28,8 +28,16 @@ import os
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
+
 extensions = [
     'sphinx.ext.autodoc',
+    'sphinx.ext.doctest',
+    'sphinx.ext.intersphinx',
+    'sphinx.ext.todo',
+    'sphinx.ext.coverage',
+    'sphinx.ext.mathjax',
+    'sphinx.ext.ifconfig',
+    'sphinx.ext.viewcode',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -109,15 +117,10 @@ html_theme = 'default'
 #    html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 #on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
 #if not on_rtd:
-<<<<<<< HEAD
-#    html_theme = 'default'
-#else:
-#    html_theme = 'default'
-=======
-html_theme = 'default'
+#html_theme = 'default'
 #else:
 #    html_theme = 'nature'
->>>>>>> 51cf4d68566a4def8a343c49b3d41634b7b48aa3
+
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
@@ -201,13 +204,13 @@ htmlhelp_basename = 'protoDocdoc'
 
 latex_elements = {
 # The paper size ('letterpaper' or 'a4paper').
-#'papersize': 'letterpaper',
+'papersize': 'letterpaper',
 
 # The font size ('10pt', '11pt' or '12pt').
-#'pointsize': '10pt',
+'pointsize': '10pt',
 
 # Additional stuff for the LaTeX preamble.
-#'preamble': '',
+'preamble': '',
 }
 
 # Grouping the document tree into LaTeX files. List of tuples
@@ -220,23 +223,23 @@ latex_documents = [
 
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
-#latex_logo = None
+latex_logo = None
 
 # For "manual" documents, if this is true, then toplevel headings are parts,
 # not chapters.
-#latex_use_parts = False
+latex_use_parts = False
 
 # If true, show page references after internal links.
-#latex_show_pagerefs = False
+latex_show_pagerefs = False
 
 # If true, show URL addresses after external links.
-#latex_show_urls = False
+latex_show_urls = False
 
 # Documents to append as an appendix to all manuals.
-#latex_appendices = []
+latex_appendices = []
 
 # If false, no module index is generated.
-#latex_domain_indices = True
+latex_domain_indices = True
 
 
 # -- Options for manual page output ---------------------------------------

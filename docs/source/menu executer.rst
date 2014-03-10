@@ -15,7 +15,7 @@ Cette démarche tient pour acquis que le modèle de données à prototyper est d
 
 1. À partir de l'onglet **Modèle**, cliquez sur la ligne de la grille principale qui corresponde au modèle à prototyper.
 2. Cliquez sur le bouton **Exécuter** du menu des fonctions ou sur le petit triangle noir situé du côté droit du même bouton. Le petit triangle noir affiche les deux options disponibles pour Exécuter.
-3. Cliquez sur l'option **doModelPrototype**. Un message de confirmation de l'opération sera affiché sur l'interface (voirla barre de message pour plus de détails ).
+3. Cliquez sur l'option **doModelPrototype**. Un message de confirmation de l'opération sera affiché sur l'interface (voir `la barre de message <barre message.html>`_ pour plus de détails ).
 4. Déplacez-vous sur les fonctions du menu principal. Cliquez sur le bouton Réinitialiser menu pour faire apparaître dans le menu principal les vues récemment créées.
 
     Les nouvelles vues sont générées automatiquement à l'intérieur de l'arborescence AutoMenu -> ProtoOptions. Notez que les vues des prototypes antérieures sont aussi affichées avec les vues récemment créées.
@@ -27,7 +27,6 @@ Cette démarche tient pour acquis que le modèle de données à prototyper est d
 7. Procédez à glisser-déposer à l'intérieur de ce dossier chacune de vues appartenant à ce projet. Sélectionnez une vue à la fois.
 8. Quand toutes les vues seront à l'intérieur du dossier, glissez et déposez le dossier vers l'arborescence du menu principal. Par exemple, après la composante relation. Assurez-vous que le dossier se retrouve à l'extérieur de l'arborescence AutoMenu.
 9. Sélectionnez **AutoMenu** et cliquez sur le bouton Supprimer noeud du menu principal. Ceci effacera l'arborescence d'AutoMenu (la suppression n'est pas définitive, pour récupérer cette arborescence cliquez sur le bouton réinitialiser du menu principal).
-10 Pour terminer, cliquez sur le bouton Enregistrer menu du menu principal.
 
     **Important ! si vous n'enregistrez pas les modifications au menu, elles seront perdues à la fermeture de l'application du prototypeur.**
 
@@ -58,4 +57,4 @@ La fonction **Exécuter** dans le cas des entités a une seule action : doEntity
 
 10 Pour terminer, cliquez sur le bouton Enregistrer menu du menu principal.
 
-    :**Important ! si vous n'enregistrez pas les modifications au menu, elles seront perdues à la fermeture de l'application du prototypeur.**:
+    ``**Important ! si vous n'enregistrez pas les modifications au menu, elles seront perdues à la fermeture de l'application du prototypeur.**``
