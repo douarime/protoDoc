@@ -1,1 +1,0 @@
-Search.setIndex({envversion:42,terms:{index:0,search:[],modul:0,content:0,recherch:0,page:0},objtypes:{},objnames:{},filenames:["index"],titles:["Welcome to protoDoc&#8217;s documentation!"],objects:{},titleterms:{protodoc:0,document:0,welcom:0,indic:0,tabl:0}})
