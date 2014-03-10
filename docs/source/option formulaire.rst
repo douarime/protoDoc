@@ -39,14 +39,6 @@ La fenêtre des éléments du formulaire affiche dans une arborescence les infor
 | .. image:: ./images/fieldset.png   | Icône attribuée aux contenants de type fieldset et HTML.     |
 +------------------------------------+--------------------------------------------------------------+
 
-.. image:: ./images/saveform.png
-
-Enregistrer les modifications du formulaire.
-
-.. image:: ./images/refreshform.png     Rafraîchir l'aperçu du formulaire (côté droit de la fenêtre).
-
-.. image:: ./images/erasenode.png
-
 
 Les outils du formulaire
 ^^^^^^^^^^^^^^^^^^^^^^^^
