@@ -1,22 +1,35 @@
-.. protoDoc documentation master file, created by
-   sphinx-quickstart on Fri Mar  7 15:29:44 2014.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Aide en ligne de l'application web prototypeur du Certae
+========================================================
 
-Welcome to protoDoc's documentation!
-====================================
+Structure de l'interface web du Prototypeur
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. toctree::
+   :maxdepth: 2
+   
+   organisation interface
+   menu principal
+   barre message
 
-Contents:
 
+Grille principale et ses fonctions
+==================================
 .. toctree::
    :maxdepth: 2
 
+   presentation grille
+   menu filtrer
+   menu éditer
+   menu classer
+   menu executer
+   menu navigation
+   menu imprimer
+   menu configuration
 
 
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+- :ref:`genindex`
+- :ref:`modindex`
+- :ref:`search`
 
