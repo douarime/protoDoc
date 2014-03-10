@@ -57,4 +57,10 @@ La fonction **Exécuter** dans le cas des entités a une seule action : doEntity
 
 10 Pour terminer, cliquez sur le bouton Enregistrer menu du menu principal.
 
-    ``**Important ! si vous n'enregistrez pas les modifications au menu, elles seront perdues à la fermeture de l'application du prototypeur.**``
+
+**Important ! si vous n'enregistrez pas les modifications au menu, elles seront perdues à la fermeture de l'application du prototypeur.**
+
+``Important ! si vous n'enregistrez pas les modifications au menu, elles seront perdues à la fermeture de l'application du prototypeur.``
+
+.. warning::
+    Si vous n'enregistrez pas les modifications au menu, elles seront perdues à la fermeture de l'application du prototypeur.
