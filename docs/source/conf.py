@@ -109,15 +109,9 @@ html_theme = 'default'
 #    html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 #on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
 #if not on_rtd:
-<<<<<<< HEAD
 #    html_theme = 'default'
-#else:
-#    html_theme = 'default'
-=======
-html_theme = 'default'
 #else:
 #    html_theme = 'nature'
->>>>>>> 51cf4d68566a4def8a343c49b3d41634b7b48aa3
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
