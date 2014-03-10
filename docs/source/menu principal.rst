@@ -2,7 +2,6 @@ Menu principal
 ==============
 
 .. image:: ./images/composants.png
-
 Figure 2 : Menu des composants du dictionnaire.
 
 Le **menu principal** affiche l'arborescence des composantes du dictionnaire (MCD) ainsi que la liste des projets et leurs vues prototypes.
@@ -47,9 +46,7 @@ Enregistrer menu sert à enregistrer l'état actuel du menu principal. Toutes le
 
 Recharger menu fait un appel à l'application pour recharger la configuration du menu. Si les modifications effectuées ont été enregistrées, l'application retournera le dernier état enregistré du menu.
 
-.. image:: ./images/restartmenu.png
-
-Réinitialiser menu fait un appel à l'application pour charger la configuration initiale du menu. 
+.. image:: ./images/restartmenu.png Réinitialiser menu fait un appel à l'application pour charger la configuration initiale du menu. 
 
 
 
