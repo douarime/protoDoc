@@ -12,7 +12,7 @@ Structure de l'interface web du Prototypeur
 
 
 Grille principale et ses fonctions
-==================================
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. toctree::
    :maxdepth: 2
 
@@ -27,7 +27,7 @@ Grille principale et ses fonctions
 
 
 Indices and tables
-==================
+^^^^^^^^^^^^^^^^^^
 
 - :ref:`genindex`
 - :ref:`modindex`
