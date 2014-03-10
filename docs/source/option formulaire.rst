@@ -43,9 +43,7 @@ La fenêtre des éléments du formulaire affiche dans une arborescence les infor
 
 Enregistrer les modifications du formulaire.
 
-.. image:: ./images/refreshform.png
-
-Rafraîchir l'aperçu du formulaire (côté droit de la fenêtre).
+.. image:: ./images/refreshform.png     Rafraîchir l'aperçu du formulaire (côté droit de la fenêtre).
 
 .. image:: ./images/erasenode.png
 
