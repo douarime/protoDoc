@@ -2,6 +2,7 @@ Menu principal
 ==============
 
 .. image:: ./images/composants.png
+
 Figure 2 : Menu des composants du dictionnaire.
 
 Le **menu principal** affiche l'arborescence des composantes du dictionnaire (MCD) ainsi que la liste des projets et leurs vues prototypes.
@@ -10,7 +11,7 @@ Le menu principal permet d'afficher le contenu de chaque objet disponible sur l'
 
 Il est possible de cacher le menu principal en cliquant sur le bouton.
 
-.. image:: ./images/icon_fermer24.png .
+.. image:: ./images/icon_fermer24.png
 
 Pour réafficher le menu principal cliquez sur le bouton.
 

@@ -1,5 +1,0 @@
-Menu des fonctions: classer
-===========================
-
-
-
