@@ -18,12 +18,14 @@ Pour réafficher le menu principal cliquez sur le bouton.
 .. image:: ./images/icon_ouvrir24.png
 
 **Afficher le contenu d'un objet du menu principal**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1.Cliquez deux fois sur l'objet à ouvrir. Le nouvel onglet s'ouvrira automatiquement dans la **grille principale** ;
 
 2.Répétez l'étape 1 pour chaque nouvel onglet à ouvrir ;
 
 **Les fonctions du menu principal**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: ./images/newdossier.png
 
