@@ -24,11 +24,9 @@ Figure 18 : la fenêtre des éléments du formulaire.
 
 La fenêtre des éléments du formulaire affiche dans une arborescence les informations (champs) que le formulaire montrera au moment de l'ouvrir pour un objet sélectionné. À partir de cette fenêtre, il est possible de personnaliser l'affichage et l'ordre d'apparition de champs sur le formulaire. L'ordre d'apparition de champs est défini selon la position de l'objet dans l'arborescence. Il est possible aussi de regrouper les champs à l'intérieur des contenants de type « Fieldset » ou « HTMLset ».
 
-.. image:: ./images/saveform.png
-Enregistrer les modifications du formulaire.
+.. image:: ./images/saveform.png Enregistrer les modifications du formulaire.
 
-.. image:: ./images/refreshform.png
-Rafraîchir l'aperçu du formulaire (côté droit de la fenêtre).
+.. image:: ./images/refreshform.png Rafraîchir l'aperçu du formulaire (côté droit de la fenêtre).
 
 .. image:: ./images/erasenode.png
 Supprimer un objet dans l'arborescence.
