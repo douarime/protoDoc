@@ -24,21 +24,24 @@ Figure 18 : la fenêtre des éléments du formulaire.
 
 La fenêtre des éléments du formulaire affiche dans une arborescence les informations (champs) que le formulaire montrera au moment de l'ouvrir pour un objet sélectionné. À partir de cette fenêtre, il est possible de personnaliser l'affichage et l'ordre d'apparition de champs sur le formulaire. L'ordre d'apparition de champs est défini selon la position de l'objet dans l'arborescence. Il est possible aussi de regrouper les champs à l'intérieur des contenants de type « Fieldset » ou « HTMLset ».
 
+|i1|  Enregistrer les modifications du formulaire.
 
-+------------------------------------+--------------------------------------------------------------+
-| .. image:: ./images/saveform.png   |  Enregistrer les modifications du formulaire.                |
-+------------------------------------+--------------------------------------------------------------+
-| .. image:: ./images/refreshform.png| Rafraîchir l'aperçu du formulaire (côté droit de la fenêtre).|
-+------------------------------------+--------------------------------------------------------------+
-| .. image:: ./images/erasenode.png  | Supprimer un objet dans l'arborescence.                      |
-+------------------------------------+--------------------------------------------------------------+
-| .. image:: ./images/icon_gauche.png| Cacher la fenêtre des éléments du formulaire de l'interface. |
-+------------------------------------+--------------------------------------------------------------+
-| .. image:: ./images/champ.png      | Icône attribuée aux champs.                                  |
-+------------------------------------+--------------------------------------------------------------+
-| .. image:: ./images/fieldset.png   | Icône attribuée aux contenants de type fieldset et HTML.     |
-+------------------------------------+--------------------------------------------------------------+
+|i2| Rafraîchir l'aperçu du formulaire (côté droit de la fenêtre)
 
+|i3| Supprimer un objet dans l'arborescence.
+
+|i4| Cacher la fenêtre des éléments du formulaire de l'interface.
+
+|i5| Icône attribuée aux champs.
+
+|i6| Icône attribuée aux contenants de type fieldset et HTML. 
+
+.. |i1| image:: ./images/saveform.png
+.. |i2| image:: ./images/refreshform.png
+.. |i3| image:: ./images/erasenode.png
+.. |i4| image:: ./images/icon_gauche.png
+.. |i5| image:: ./images/champ.png
+.. |i6| image:: ./images/fieldset.png
 
 Les outils du formulaire
 ^^^^^^^^^^^^^^^^^^^^^^^^
