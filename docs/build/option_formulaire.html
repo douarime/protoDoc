@@ -1,0 +1,160 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Option: Formulaire &mdash; documentation protoDoc 0.0.1</title>
+    
+    <link rel="stylesheet" href="_static/default.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '0.0.1',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/translations.js"></script>
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <link rel="top" title="documentation protoDoc 0.0.1" href="index.html" />
+    <link rel="next" title="Option : Champs" href="option_champs.html" />
+    <link rel="prev" title="Menu des fonctions: configuration" href="menu_configuration.html" /> 
+  </head>
+  <body>
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="Index général"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="option_champs.html" title="Option : Champs"
+             accesskey="N">suivant</a> |</li>
+        <li class="right" >
+          <a href="menu_configuration.html" title="Menu des fonctions: configuration"
+             accesskey="P">précédent</a> |</li>
+        <li><a href="index.html">documentation protoDoc 0.0.1</a> &raquo;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <div class="section" id="option-formulaire">
+<h1>Option: Formulaire<a class="headerlink" href="#option-formulaire" title="Lien permanent vers ce titre">¶</a></h1>
+<img alt="_images/formulaire.png" src="_images/formulaire.png" />
+<p>Figure 17 : Option formulaire du menu configuration.</p>
+<p>L&#8217;option <strong>Formulaire</strong> ouvre une nouvelle fenêtre à partir de laquelle nous avons accès aux propriétés de personnalisation du formulaire.</p>
+<div class="section" id="organisation-de-la-fenetre-du-formulaire">
+<h2>Organisation de la fenêtre du formulaire<a class="headerlink" href="#organisation-de-la-fenetre-du-formulaire" title="Lien permanent vers ce titre">¶</a></h2>
+<p>La fenêtre du formulaire est organisée en trois grandes sections :</p>
+<ol class="arabic simple">
+<li>Les éléments du formulaire se situent en haut du côté gauche de la fenêtre.</li>
+<li>Les outils du formulaire se situent en bas du côté gauche de la fenêtre.</li>
+<li>L&#8217;aperçu du formulaire se situe du côté droit de la fenêtre.</li>
+</ol>
+</div>
+<div class="section" id="les-elements-du-formulaire">
+<h2>Les éléments du formulaire<a class="headerlink" href="#les-elements-du-formulaire" title="Lien permanent vers ce titre">¶</a></h2>
+<img alt="_images/eleformulaire.png" src="_images/eleformulaire.png" />
+<p>Figure 18 : la fenêtre des éléments du formulaire.</p>
+<p>La fenêtre des éléments du formulaire affiche dans une arborescence les informations (champs) que le formulaire montrera au moment de l&#8217;ouvrir pour un objet sélectionné. À partir de cette fenêtre, il est possible de personnaliser l&#8217;affichage et l&#8217;ordre d&#8217;apparition de champs sur le formulaire. L&#8217;ordre d&#8217;apparition de champs est défini selon la position de l&#8217;objet dans l&#8217;arborescence. Il est possible aussi de regrouper les champs à l&#8217;intérieur des contenants de type « Fieldset » ou « HTMLset ».</p>
+<p><img alt="img1" src="_images/saveform.png" /> Enregistrer les modifications du formulaire.</p>
+<p><img alt="img2" src="_images/refreshform.png" /> Rafraîchir l&#8217;aperçu du formulaire (côté droit de la fenêtre)</p>
+<p><img alt="img3" src="_images/erasenode.png" /> Supprimer un objet dans l&#8217;arborescence.</p>
+<p><img alt="img4" src="_images/icon_gauche.png" /> Cacher la fenêtre des éléments du formulaire de l&#8217;interface.</p>
+<p><img alt="img5" src="_images/champ.png" /> Icône attribuée aux champs.</p>
+<p><img alt="img6" src="_images/fieldset.png" /> Icône attribuée aux contenants de type fieldset et HTML.</p>
+</div>
+<div class="section" id="les-outils-du-formulaire">
+<h2>Les outils du formulaire<a class="headerlink" href="#les-outils-du-formulaire" title="Lien permanent vers ce titre">¶</a></h2>
+<p>Figure 19 : les outils du formulaire
+Figure 19 : les outils du formulaire.</p>
+<p>La fenêtre des outils du formulaire donne accès aux outils permettant de créer et de personnaliser un formulaire. Les outils sont organisés dans une arborescence où ils se retrouvent les champs, les contenants et les détails pour une vue. L&#8217;onglet des « propriétés » donne accès aux propriétés de personnalisation de l&#8217;objet sélectionné dans la fenêtre des éléments.
+Fields ( Champs )</p>
+<p>Le dossier Fields contient la liste complète des champs pour l&#8217;objet sélectionné ( un projet, un modèle, une entité, une propriété, une relation ou une vue ). Dans le cas d&#8217;une vue, les champs correspondent aux propriétés ou attributs des entités crées par l&#8217;utilisateur. On y retrouve aussi des champs crées par l&#8217;application du prototypeur comme la date de la dernière modification, le nombre de l&#8217;équipe ou groupe à qui appartient le projet, etc.
+Containers ( Contenants )</p>
+<p>Le dossier Containers est composé de deux types de contenants qui servent à regrouper plusieurs champs dans le formulaire. Un contenant de type Fieldset crée un contour autour des champs qu&#8217;il entourne. Un contenant de type HTMLset c&#8217;est un éditeur de texte HTML. Le contenant HTMLset s&#8217;utilise pour les champs de type de base « texte » que stockent des chaînes de 65, 535 caractères maximum.
+Details ( Détails )</p>
+<p>Le dossier Détails contient les détails configurés pour les projets, les modèles, les entités, les propriétés et les relations. Quand un détail est ajouté au formulaire, ce détail s&#8217;affiche dans la forme d&#8217;une grille.
+L&#8217;aperçu du formulaire</p>
+<p>L&#8217;espace réservé à l&#8217;aperçu du formulaire permet de prévisualiser les modifications appliquées au formulaire. Les modifications sont affichées en temps réel, cela veut dire que si vous changez l&#8217;ordre des champs ou que vous regroupez plusieurs champs dans un fieldset, vous verrez dans l&#8217;espace de l&#8217;aperçu le résultat final quasi instantanément.</p>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Table des Matières</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Option: Formulaire</a><ul>
+<li><a class="reference internal" href="#organisation-de-la-fenetre-du-formulaire">Organisation de la fenêtre du formulaire</a></li>
+<li><a class="reference internal" href="#les-elements-du-formulaire">Les éléments du formulaire</a></li>
+<li><a class="reference internal" href="#les-outils-du-formulaire">Les outils du formulaire</a></li>
+</ul>
+</li>
+</ul>
+
+  <h4>Sujet précédent</h4>
+  <p class="topless"><a href="menu_configuration.html"
+                        title="Chapitre précédent">Menu des fonctions: configuration</a></p>
+  <h4>Sujet suivant</h4>
+  <p class="topless"><a href="option_champs.html"
+                        title="Chapitre suivant">Option : Champs</a></p>
+  <h3>Cette page</h3>
+  <ul class="this-page-menu">
+    <li><a href="_sources/option_formulaire.txt"
+           rel="nofollow">Montrer la source</a></li>
+  </ul>
+<div id="searchbox" style="display: none">
+  <h3>Recherche rapide</h3>
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" />
+      <input type="submit" value="Go" />
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+    <p class="searchtip" style="font-size: 90%">
+    Saisissez un mot clef ou un nom de module, classe ou fonction.
+    </p>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="Index général"
+             >index</a></li>
+        <li class="right" >
+          <a href="option_champs.html" title="Option : Champs"
+             >suivant</a> |</li>
+        <li class="right" >
+          <a href="menu_configuration.html" title="Menu des fonctions: configuration"
+             >précédent</a> |</li>
+        <li><a href="index.html">documentation protoDoc 0.0.1</a> &raquo;</li> 
+      </ul>
+    </div>
+    <div class="footer">
+        &copy; Copyright 2014, Marieme Doua.
+      Créé avec <a href="http://sphinx-doc.org/">Sphinx</a> 1.2.2.
+    </div>
+  </body>
+</html>
