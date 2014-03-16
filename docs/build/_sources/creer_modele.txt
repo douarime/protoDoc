@@ -1,9 +1,14 @@
 Créer un modèle
 ===============
 
-La deuxième étape pour construire un prototype consiste à créer le modèle conceptuel de données. Vous pouvez créer un modèle dans un nouveau projet ou le créer à l'intérieur d'un projet existant. Un modèle de données peut être rattaché à un seul projet, mais un projet peut contenir plusieurs modèles.
+La deuxième étape pour construire un prototype consiste à créer le modèle conceptuel de données. Vous pouvez créer un modèle 
+dans un nouveau projet ou le créer à l'intérieur d'un projet existant. Un modèle de données peut être rattaché à un seul 
+projet, mais un projet peut contenir plusieurs modèles.
 
-Il y a deux façons de créer un nouveau modèle. La première façon est de le créer au même moment qu'un nouveau projet. Quand un nouveau projet est créé, les contrôles d'édition s'activent sur la grille de « modèles du projet » du même formulaire. En cliquant sur le bouton ajouter de cette grille, un nouveau formulaire s'ouvrira pour remplir les informations concernant le modèle.
+Il y a deux façons de créer un nouveau modèle. La première façon est de le créer au même moment qu'un nouveau projet. 
+Quand un nouveau projet est créé, les contrôles d'édition s'activent sur la grille de « modèles du projet » du même formulaire. 
+En cliquant sur le bouton ajouter de cette grille, un nouveau formulaire s'ouvrira pour remplir les informations concernant le 
+modèle.
 
 La deuxième façon de créer un nouveau modèle est à partir du menu principal.
 
@@ -13,11 +18,19 @@ Créer un nouveau modèle à partir du menu principal
 """"""""""""""""""""""""""""""""""""""""""""""""""
 
 	.. image:: ./images/modele.png
+	
 	*Figure 34 : créer un modèle*
+	
+	
 
-1. À partir du menu principal, cliquez deux fois sur **Modèle** pour ouvrir l'onglet « Modèle » qui donne accès à la grille principale.
-2. Cliquez sur le bouton **Éditer** du menu de fonctionnalités pour rentrer en mode d'édition (voir `la fonction Éditer <menu_editer.html>`_ pour plus détails).
+1. À partir du menu principal, cliquez deux fois sur **Modèle** pour ouvrir l'onglet « Modèle » qui donne accès à la 
+   grille principale.
+   
+2. Cliquez sur le bouton **Éditer** du menu de fonctionnalités pour rentrer en mode d'édition (voir `la fonction Éditer <menu_editer.html>`_ 
+   pour plus détails).
+   
 3. Cliquez sur le bouton **Ajouter** , un formulaire sera affiché sur l'écran.
+
 4. Dans le formulaire, remplissez :
 
    le nom du modèle (information obligatoire).
@@ -34,10 +47,13 @@ Créer un nouveau modèle à partir du formulaire du projet
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 	.. image:: ./images/modele2.png
+	
 	*Figure 35 : créer un modèle détails.*
 
 1. À partir du formulaire du projet, cliquez sur le bouton **Ajouter** de la grille « Modèles du projet ».
+
 2. Un nouveau formulaire (comme celui de la figure 35) s'affichera dans l'interface.
+
 3. Dans le formulaire, remplissez :
 
    le nom du modèle (information obligatoire)
@@ -53,4 +69,5 @@ d'ajouter des entités en cliquant sur le bouton « Ajouter » du menu de contr�
 dans un projet. Passez à l'étape `créer une entité <creer_entite.html>`_ pour continuer avec la démarche.
 
 	.. image:: ./images/modele1.png
+	
 	*Figure 36 : ajouter une entité détails.*

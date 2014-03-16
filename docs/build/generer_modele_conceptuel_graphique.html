@@ -49,27 +49,44 @@
             
   <div class="section" id="generer-le-modele-conceptuel-graphique">
 <h1>Générer le modèle conceptuel graphique<a class="headerlink" href="#generer-le-modele-conceptuel-graphique" title="Lien permanent vers ce titre">¶</a></h1>
-<img alt="_images/executermod.png" src="_images/executermod.png" />
-<p>Figure 45 : fonction Exécuter et son sous-menu.</p>
+<blockquote>
+<div><img alt="_images/executermod.png" src="_images/executermod.png" />
+<p><em>Figure 45 : fonction Exécuter et son sous-menu.</em></p>
+</div></blockquote>
 <p>L&#8217;action doModelGraph génère le modèle conceptuel graphique pour un modèle sélectionné.</p>
-<p><strong>Générer le modèle conceptuel graphique d&#8217;un modèle sélectionné</strong></p>
+<div class="section" id="generer-le-modele-conceptuel-graphique-d-un-modele-selectionne">
+<h2>Générer le modèle conceptuel graphique d&#8217;un modèle sélectionné<a class="headerlink" href="#generer-le-modele-conceptuel-graphique-d-un-modele-selectionne" title="Lien permanent vers ce titre">¶</a></h2>
 <ol class="arabic simple">
 <li>À partir de l&#8217;onglet <strong>Modèle</strong>, cliquez sur la ligne de la grille principale qui corresponde au modèle à générer.</li>
-<li>Cliquez sur le bouton <strong>Exécuter</strong> du menu des fonctions ou sur le petit triangle noir situé du côté droit du même bouton. Le petit triangle noir affiche les deux options disponibles pour Exécuter.</li>
-<li>Cliquez sur l&#8217;option <strong>doModelGraph</strong> . Un message de confirmation de l&#8217;opération sera affiché sur l&#8217;interface (voir la barre de messages pour plus de détails).</li>
-<li>Le modèle graphique généré est ouvert dans un nouvel onglet de votre fureteur. Le format de sortie de la graphique est un fichier PDF.</li>
+<li>Cliquez sur le bouton <strong>Exécuter</strong> du menu des fonctions ou sur le petit triangle noir situé du côté droit du même bouton.
+Le petit triangle noir affiche les deux options disponibles pour Exécuter.</li>
+<li>Cliquez sur l&#8217;option <strong>doModelGraph</strong> . Un message de confirmation de l&#8217;opération sera affiché sur l&#8217;interface
+(voir <a class="reference external" href="barre_message.html">la barre de message</a> pour plus de détails).</li>
+<li>Le modèle graphique généré est ouvert dans un nouvel onglet de votre fureteur. Le format de sortie de la graphique est
+un fichier PDF.</li>
 </ol>
-<p><strong>Formalisme du modèle graphique</strong>
-.. image:: ./images/generermodele.png
-Figure 46 : formalisme du modèle graphique.</p>
-<p><strong>Clé primaire</strong> : la police du texte est grasse et sa couleur est noire. Exemples dans la figure : numero_ligne, numero_produit et date_expedition.</p>
-<p><strong>Clé étrangère</strong> : la police du texte est italique et sa couleur est gris pâle. Le nom de son entité enfant apparait du côté droit du nom de la clé. Exemple : li_prt -&gt; produit ou cde_fact -&gt; facture.</p>
-<p><strong>Clé étrangère dépendante (obligatoire)</strong> : la police du texte est grasse et sa couleur est noire. Le nom de son entité enfant apparait du côté droit du nom de la clé. Exemple : li_cde -&gt; commande.</p>
-<p><strong>Clé étrangère requise (obligatoire)</strong> : la police du texte est grasse et sa couleur est gris pâle. Le nom de son entité enfant apparait du côté droit du nom de la clé. Exemple : pdt_fam -&gt; famille.</p>
-<p><strong>Propriété</strong> : la police du texte est en italique et sa couleur est gris pâle. Exemples dans la figure : prix_vente, qte_vendue et prix_production.</p>
-<p><strong>Propriété requise (obligatoire)</strong> : la police du texte est grasse et sa couleur est gris pâle. Exemples dans la figure : nom_produit et numero_commande.</p>
+</div>
+<div class="section" id="formalisme-du-modele-graphique">
+<h2>Formalisme du modèle graphique<a class="headerlink" href="#formalisme-du-modele-graphique" title="Lien permanent vers ce titre">¶</a></h2>
+<blockquote>
+<div><img alt="_images/generermodele.png" src="_images/generermodele.png" />
+<p><em>Figure 46 : formalisme du modèle graphique.</em></p>
+</div></blockquote>
+<p><strong>Clé primaire</strong> : la police du texte est grasse et sa couleur est noire. Exemples dans la figure : numero_ligne, numero_produit
+et date_expedition.</p>
+<p><strong>Clé étrangère</strong> : la police du texte est italique et sa couleur est gris pâle. Le nom de son entité enfant apparait du côté
+droit du nom de la clé. Exemple : li_prt -&gt; produit ou cde_fact -&gt; facture.</p>
+<p><strong>Clé étrangère dépendante (obligatoire)</strong> : la police du texte est grasse et sa couleur est noire. Le nom de son entité enfant
+apparait du côté droit du nom de la clé. Exemple : li_cde -&gt; commande.</p>
+<p><strong>Clé étrangère requise (obligatoire)</strong> : la police du texte est grasse et sa couleur est gris pâle. Le nom de son entité enfant
+apparait du côté droit du nom de la clé. Exemple : pdt_fam -&gt; famille.</p>
+<p><strong>Propriété</strong> : la police du texte est en italique et sa couleur est gris pâle. Exemples dans la figure : prix_vente, qte_vendue
+et prix_production.</p>
+<p><strong>Propriété requise (obligatoire)</strong> : la police du texte est grasse et sa couleur est gris pâle. Exemples dans la figure :
+nom_produit et numero_commande.</p>
 <p><strong>Relation dépendante (obligatoire)</strong> : la flèche est pleine.</p>
 <p><strong>Entité parent</strong> : la flèche pointe vers l&#8217;entité parent.</p>
+</div>
 </div>
 
 
@@ -78,6 +95,15 @@ Figure 46 : formalisme du modèle graphique.</p>
       </div>
       <div class="sphinxsidebar">
         <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Table des Matières</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Générer le modèle conceptuel graphique</a><ul>
+<li><a class="reference internal" href="#generer-le-modele-conceptuel-graphique-d-un-modele-selectionne">Générer le modèle conceptuel graphique d&#8217;un modèle sélectionné</a></li>
+<li><a class="reference internal" href="#formalisme-du-modele-graphique">Formalisme du modèle graphique</a></li>
+</ul>
+</li>
+</ul>
+
   <h4>Sujet précédent</h4>
   <p class="topless"><a href="creer_relation.html"
                         title="Chapitre précédent">Créer une relation</a></p>
@@ -116,7 +142,7 @@ Figure 46 : formalisme du modèle graphique.</p>
       </ul>
     </div>
     <div class="footer">
-        &copy; Copyright 2014, Marieme Doua.
+        &copy; Copyright 2014, Marieme Doua, Gabriela Nino de Rivera, Certae ulaval.
       Créé avec <a href="http://sphinx-doc.org/">Sphinx</a> 1.2.2.
     </div>
   </body>

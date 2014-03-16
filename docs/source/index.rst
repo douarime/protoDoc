@@ -61,9 +61,11 @@ Entrer le modèle dans l'application du prototypeur
    generer_modele_conceptuel_graphique
 
 
-Indices and tables
-^^^^^^^^^^^^^^^^^^
+Rechercher
+^^^^^^^^^^
 
-- :ref:`genindex`
-- :ref:`modindex`
+.. - :ref:`genindex`
+
+.. - :ref:`modindex`
+
 - :ref:`search`

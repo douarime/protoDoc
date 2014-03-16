@@ -56,52 +56,55 @@
 <p>La cinquième étape pour construire un prototype consiste à créer les relations entre les entités du modèle conceptuel de données. Les relations peuvent être créées à partir de l&#8217;entité enfant vers l&#8217;entité parente ou vice-versa. Les clés étrangères sont générées automatiquement par l&#8217;application du prototypeur au moment de créer la relation entre deux entités.</p>
 <p>De la même manière que dans les étapes précédentes, il y a deux façons de créer les relations entre les entités. La première façon est de les créer au même moment qu&#8217;une nouvelle entité. Quand une nouvelle entité est créée, les contrôles d&#8217;édition s&#8217;activent sur la grille des « relations de l&#8217;entité » du même formulaire. En cliquant sur le bouton ajouter de cette grille, un nouveau formulaire s&#8217;ouvrira pour remplir les informations concernant les relations. Les relations sont créées une par une.</p>
 <p>La deuxième façon de créer les relations est à partir du menu principal. Nous allons explorer les deux façons dans le texte qui suit.</p>
-<p><strong>Créer une nouvelle relation à partir du menu principal</strong></p>
-<img alt="_images/relation.png" src="_images/relation.png" />
-<p>Figure 43 : créer une relation.</p>
-<ol class="arabic">
-<li><p class="first">À partir du menu principal, cliquez deux fois sur Relation pour ouvrir l&#8217;onglet <strong>Relation</strong> qui donne accès à la grille principale.</p>
-</li>
-<li><p class="first">Cliquez sur le bouton <strong>Éditer</strong> du menu de fonctionnalités pour rentrer en mode d&#8217;édition (voir la fonction Éditer pour plus détails).</p>
-</li>
-<li><p class="first">Cliquez sur le bouton <strong>Ajouter</strong>, un formulaire sera affiché sur l&#8217;écran.</p>
-</li>
-<li><p class="first">Dans le formulaire, remplissez (voir figure 44) :</p>
+<div class="section" id="creer-une-nouvelle-relation-a-partir-du-menu-principal">
+<h2>Créer une nouvelle relation à partir du menu principal<a class="headerlink" href="#creer-une-nouvelle-relation-a-partir-du-menu-principal" title="Lien permanent vers ce titre">¶</a></h2>
+<blockquote>
+<div><img alt="_images/relation.png" src="_images/relation.png" />
+<p><em>Figure 43 : créer une relation.</em></p>
+</div></blockquote>
+<ol class="arabic simple">
+<li>À partir du menu principal, cliquez deux fois sur Relation pour ouvrir l&#8217;onglet <strong>Relation</strong> qui donne accès à la grille principale.</li>
+<li>Cliquez sur le bouton <strong>Éditer</strong> du menu de fonctionnalités pour rentrer en mode d&#8217;édition (voir la <a class="reference external" href="menu_editer.html">fonction Éditer</a> pour plus détails).</li>
+<li>Cliquez sur le bouton <strong>Ajouter</strong>, un formulaire sera affiché sur l&#8217;écran.</li>
+<li>Dans le formulaire, remplissez (voir figure 44) :</li>
+</ol>
 <blockquote>
 <div><ul class="simple">
 <li>le nom de la relation (information obligatoire). Comme bonne pratique, composez les noms de vos relations en commençant par le nom de l&#8217;entité enfant suivi du nom de l&#8217;entité parent. Les deux noms séparés par un trait d&#8217;union, exemple séjour-chalet.</li>
-<li>le nom de l&#8217;entité parent (information obligatoire). Cliquez sur le bouton pour sélectionner l&#8217;entité de la liste.</li>
-<li>le nom de l&#8217;entité enfant (information obligatoire). Cliquez sur le bouton pour sélectionner l&#8217;entité de la liste.</li>
+<li>le nom de l&#8217;entité parent (information obligatoire). Cliquez sur le bouton <img alt="img" src="_images/lupa.png" /> pour sélectionner l&#8217;entité de la liste.</li>
+<li>le nom de l&#8217;entité enfant (information obligatoire). Cliquez sur le bouton <img alt="img" src="_images/lupa.png" /> pour sélectionner l&#8217;entité de la liste.</li>
 <li>crochez la caisse de la dépendance de clé si la connectivité du côté enfant est dépendante : 1,1. Si votre connectivité est 1,1 ne crochez pas cette caisse.</li>
 <li>la description de la relation (information optionnelle).</li>
 </ul>
 </div></blockquote>
-</li>
-<li><p class="first">Cliquez sur le bouton <strong>Enregistrer</strong> de la fenêtre.</p>
-</li>
+<ol class="arabic simple" start="5">
+<li>Cliquez sur le bouton <strong>Enregistrer</strong> de la fenêtre.</li>
 </ol>
-<p><strong>Créer une nouvelle relation à partir du formulaire de l&#8217;entité</strong>
-.. image:: ./images/relation1.png
-Figure 44 : créer une relation details.</p>
-<ol class="arabic">
-<li><p class="first">À partir du formulaire de l&#8217;entité, cliquez sur le bouton <strong>Ajouter</strong> de la grille « relations filtrées par &#8221; &#8221; ».</p>
-</li>
-<li><p class="first">Un nouveau formulaire (comme celui de la figure à gauche) s&#8217;affichera dans l&#8217;interface.</p>
-</li>
-<li><p class="first">Dans le formulaire, remplissez :</p>
+</div>
+<div class="section" id="creer-une-nouvelle-relation-a-partir-du-formulaire-de-l-entite">
+<h2>Créer une nouvelle relation à partir du formulaire de l&#8217;entité<a class="headerlink" href="#creer-une-nouvelle-relation-a-partir-du-formulaire-de-l-entite" title="Lien permanent vers ce titre">¶</a></h2>
+<blockquote>
+<div><img alt="_images/relation1.png" src="_images/relation1.png" />
+<p><em>Figure 44 : créer une relation details.</em></p>
+</div></blockquote>
+<ol class="arabic simple">
+<li>À partir du formulaire de l&#8217;entité, cliquez sur le bouton <strong>Ajouter</strong> de la grille « relations filtrées par &#8221; &#8221; ».</li>
+<li>Un nouveau formulaire (comme celui de la figure à gauche) s&#8217;affichera dans l&#8217;interface.</li>
+<li>Dans le formulaire, remplissez :</li>
+</ol>
 <blockquote>
 <div><ul class="simple">
 <li>le nom de la relation (information obligatoire). Comme bonne pratique, composez les noms de vos relations en commençant par le nom de l&#8217;entité enfant suivi du nom de l&#8217;entité parent. Les deux noms séparés par un trait d&#8217;union, exemple séjour-chalet.</li>
-<li>le nom de l&#8217;entité parent (information obligatoire). Cliquez sur le bouton pour sélectionner l&#8217;entité de la liste.</li>
-<li>le nom de l&#8217;entité enfant (information obligatoire). Cliquez sur le bouton pour sélectionner l&#8217;entité de la liste.</li>
+<li>le nom de l&#8217;entité parent (information obligatoire). Cliquez sur le bouton <img alt="img" src="_images/lupa.png" /> pour sélectionner l&#8217;entité de la liste.</li>
+<li>le nom de l&#8217;entité enfant (information obligatoire). Cliquez sur le bouton <img alt="img" src="_images/lupa.png" /> pour sélectionner l&#8217;entité de la liste.</li>
 <li>crochez la caisse de la dépendance de clé si la connectivité du côté enfant est dépendante : 1,1. Si votre connectivité est 1,1, ne crochez pas cette caisse.</li>
 <li>la description de la relation (information optionnelle).</li>
 </ul>
 </div></blockquote>
-</li>
-<li><p class="first">Cliquez sur le bouton Enregistrer de la fenêtre.</p>
-</li>
+<ol class="arabic simple" start="4">
+<li>Cliquez sur le bouton Enregistrer de la fenêtre.</li>
 </ol>
+</div>
 </div>
 
 
@@ -110,6 +113,15 @@ Figure 44 : créer une relation details.</p>
       </div>
       <div class="sphinxsidebar">
         <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Table des Matières</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Créer une relation</a><ul>
+<li><a class="reference internal" href="#creer-une-nouvelle-relation-a-partir-du-menu-principal">Créer une nouvelle relation à partir du menu principal</a></li>
+<li><a class="reference internal" href="#creer-une-nouvelle-relation-a-partir-du-formulaire-de-l-entite">Créer une nouvelle relation à partir du formulaire de l&#8217;entité</a></li>
+</ul>
+</li>
+</ul>
+
   <h4>Sujet précédent</h4>
   <p class="topless"><a href="creer_propriete.html"
                         title="Chapitre précédent">Créer une propriété</a></p>
@@ -154,7 +166,7 @@ Figure 44 : créer une relation details.</p>
       </ul>
     </div>
     <div class="footer">
-        &copy; Copyright 2014, Marieme Doua.
+        &copy; Copyright 2014, Marieme Doua, Gabriela Nino de Rivera, Certae ulaval.
       Créé avec <a href="http://sphinx-doc.org/">Sphinx</a> 1.2.2.
     </div>
   </body>

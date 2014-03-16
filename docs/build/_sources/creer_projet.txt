@@ -8,12 +8,14 @@ La démarche présentée dans cette guide fait l'exercice à partir de la créat
 existant, vous pouvez passer à l'étape suivante : `créer un modèle <creer_modele.html>`_ .
 
 	.. image:: ./images/projet.png	
+	
 	*Figure 32 : créer un projet.*
 
 1. À partir du menu principal, cliquez deux fois sur **Projet** pour ouvrir l'onglet « Projet » qui donne accès à la grille 
    principale.
 
-2. Cliquez sur le bouton **Éditer** du menu de fonctionnalités pour rentrer en mode d'édition (voir la `fonction Éditer <menu_editer.html>`_ pour plus détails).
+2. Cliquez sur le bouton **Éditer** du menu de fonctionnalités pour rentrer en mode d'édition (voir la 
+   `fonction Éditer <menu_editer.html>`_ pour plus détails).
 
 3. Cliquez sur le bouton **Ajouter** , un formulaire sera affiché sur l'écran.
 
@@ -32,4 +34,5 @@ Ajouter du menu de contrôles. Ceci est une de deux façons d'ajouter un modèle
 « `créer un modèle <creer_modele.html>`_ » pour continuer avec la démarche.
  
 	.. image:: ./images/projet1.png
+	
 	*Figure 33 : exemple d'ajouter un projet détails.*
