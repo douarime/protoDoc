@@ -1,11 +1,9 @@
 Personnaliser la grille
 =======================
 
-::
-
-	Les exemples de personnalisation suivants montrent comment réaliser la configuration de base pour réussir une interface 
-	fonctionnelle et présentable. Vous êtes invités à explorer dans votre espace travail de l'application les propriétés non 
-	mentionnées dans cette guide.
+Les exemples de personnalisation suivants montrent comment réaliser la configuration de base pour réussir une interface 
+fonctionnelle et présentable. Vous êtes invités à explorer dans votre espace travail de l'application les propriétés non 
+mentionnées dans cette guide.
 	
 **Propriété gridConfig**
 	

@@ -1,11 +1,9 @@
 Personnaliser un formulaire
 ===========================
 
-::
-
-	Les exemples de personnalisation suivants montrent comment réaliser la configuration de base pour réussir un formulaire fonctionnel 
-	et présentable. Vous êtes invités à explorer dans votre espace travail de l'application les propriétés non mentionnées dans cette 
-	guide.
+Les exemples de personnalisation suivants montrent comment réaliser la configuration de base pour réussir un formulaire fonctionnel 
+et présentable. Vous êtes invités à explorer dans votre espace travail de l'application les propriétés non mentionnées dans cette 
+guide.
 
 Entrer en mode d'édition du formulaire
 """"""""""""""""""""""""""""""""""""""
