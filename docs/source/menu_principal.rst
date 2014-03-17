@@ -2,6 +2,7 @@ Menu principal
 ==============
 
 	.. image:: ./images/composants.png
+	
 	*Figure 2 : Menu des composants du dictionnaire.*
 
 Le **menu principal** affiche l'arborescence des composantes du dictionnaire (MCD) ainsi que la liste des projets et leurs 
