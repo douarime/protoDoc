@@ -1,7 +1,7 @@
 Organisation de l'interface web de l'application Prototypeur
 ============================================================
 
-	.. figure:: ./images/interface.gif
+	.. figure:: ./images/interface.png
 	
 	*Figure 1: Organisation de l'interface web de l'application.*
 
