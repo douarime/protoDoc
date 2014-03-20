@@ -34,5 +34,5 @@ Les éléments de la grille principale sont: (en haut à gauche)
    
    
 6. Le dernier élément correspond au menu de navigation des résultats. Pour accéder à la description des fonctions du menu, 
-   suivez ce `lien <menu_navigation.html>`_ .
+   suivez ce :doc:`lien <menu_navigation>`.
    

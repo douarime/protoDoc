@@ -64,7 +64,7 @@ Notez dans les deux façons présentées dans ce texte que quand vous cliquez su
 « Propriétés filtrés 
 par " " » située après le nom du modèle affiche les contrôles d'édition (voir figure 39). À partir de cette grille, il est 
 possible d'ajouter les propriétés d'une entité en cliquant sur le bouton « Ajouter » du menu de contrôles. Ceci est une de 
-deux façons d'ajouter les propriétés d'une entité. Passez à l'étape `créer une propriété <creer_propriete.html>`_ 
+deux façons d'ajouter les propriétés d'une entité. Passez à l'étape :doc:`créer une propriété. :<creer_propriete>` 
 pour continuer avec la démarche.
 
 	.. image:: ./images/entite2.png

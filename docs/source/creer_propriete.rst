@@ -110,7 +110,7 @@ Notez dans la deuxième façon présentée dans ce texte que quand vous cliquez 
 « Relation filtrées par " "» située en bas de la grille « Propriétés filtrées par " "» affiche les contrôles d'édition 
 (voir figure 42). À partir de cette grille, il est possible de créer les relations entre les entités en cliquant sur le bouton 
 Ajouter du menu de contrôles. Ceci est une de deux façons de créer les relations entre les entités.
-Passez à l'étape `créer les relations <creer_relation.html>`_ entre les entités pour continuer avec la démarche.
+Passez à l'étape :doc:`créer les relations <creer_relation>` entre les entités pour continuer avec la démarche.
 	
 	.. image:: ./images/proprietes2.png
 	

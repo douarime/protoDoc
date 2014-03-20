@@ -16,7 +16,7 @@ Créer une nouvelle relation à partir du menu principal
 
 1. À partir du menu principal, cliquez deux fois sur Relation pour ouvrir l'onglet **Relation** qui donne accès à la grille principale.
 
-2. Cliquez sur le bouton **Éditer** du menu de fonctionnalités pour rentrer en mode d'édition (voir :doc:`la fonction éditer<menu_editer>` pour plus détails).
+2. Cliquez sur le bouton **Éditer** du menu de fonctionnalités pour rentrer en mode d'édition (voir :doc:`la fonction éditer <menu_editer>` pour plus détails).
 
 3. Cliquez sur le bouton **Ajouter**, un formulaire sera affiché sur l'écran.
 

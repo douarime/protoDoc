@@ -14,7 +14,7 @@ Entrer en mode d'édition du formulaire
 
 Déplacez-vous à la fonction **Configuration** et cliquez sur l'option **Formulaire**.
 
-Si vous n'êtes pas familiarisé avec `le formulaire <option_formulaire.html>`_, cliquez sur ce lien pour apprendre sur l'organisation de la fenêtre du formulaire.
+Si vous n'êtes pas familiarisé avec :doc:`le formulaire <option_formulaire>`, cliquez sur ce lien pour apprendre sur l'organisation de la fenêtre du formulaire.
 
 Personnaliser un contenant de type Fieldset : title, fsLayout, labelAlign
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""

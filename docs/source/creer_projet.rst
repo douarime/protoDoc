@@ -5,7 +5,7 @@ La première étape pour construire un prototype consiste à créer un nouveau p
 Le modèle de données peut aussi être créé à l'intérieur d'un projet existant. Un projet peut contenir un ou plusieurs modèles.
 
 La démarche présentée dans cette guide fait l'exercice à partir de la création d'un nouveau projet. Si vous utilisez un projet 
-existant, vous pouvez passer à l'étape suivante : `créer un modèle <creer_modele.html>`_ .
+existant, vous pouvez passer à l'étape suivante : :doc:`créer un modèle <creer_modele>` .
 
 	.. image:: ./images/projet.png	
 	
@@ -31,7 +31,7 @@ existant, vous pouvez passer à l'étape suivante : `créer un modèle <creer_mo
 Quand vous cliquez sur le bouton Enregistrer, la grille « Modèle filtré par " " » située après le nom du projet affiche les 
 contrôles d'édition (voir figure 33). Il est possible d'ajouter un modèle à partir de cette grille en cliquant sur le bouton 
 Ajouter du menu de contrôles. Ceci est une de deux façons d'ajouter un modèle dans un projet. Passez à l'étape 
-« `créer un modèle <creer_modele.html>`_ » pour continuer avec la démarche.
+« :doc:`créer un modèle <creer_modele>` » pour continuer avec la démarche.
  
 	.. image:: ./images/projet1.png
 	

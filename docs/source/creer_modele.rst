@@ -66,7 +66,7 @@ Créer un nouveau modèle à partir du formulaire du projet
 Notez dans les deux façons présentées dans ce texte que quand vous cliquez sur le bouton Enregistrer, la grille « Entité filtrés 
 par " " » située après le nom du projet affiche les contrôles d'édition (voir figure 36). À partir de cette grille, il est possible 
 d'ajouter des entités en cliquant sur le bouton « Ajouter » du menu de contrôles. Ceci est une de deux façons d'ajouter des entités 
-dans un projet. Passez à l'étape `créer une entité <creer_entite.html>`_ pour continuer avec la démarche.
+dans un projet. Passez à l'étape :doc:`créer une entité <creer_entite>` pour continuer avec la démarche.
 
 	.. image:: ./images/modele1.png
 	

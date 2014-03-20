@@ -38,7 +38,7 @@ Pour ajouter une nouvelle valeur dans une des options disponibles dans la grille
 4. Déplacez-vous sur les fonctions d'édition de la grille de navigation.
 
 5. Cliquez sur le bouton **Ajouter**, un formulaire sera affiché sur l'écran. Remplissez-le et cliquez sur Enregistrer. 
-   Pour connaître les détails sur le formulaire d'ajout des propriétés, cliquez `ici <creer_propriete.html>`_ .
+   Pour connaître les détails sur le formulaire d'ajout des propriétés, cliquez :doc:`ici <creer_propriete>` .
 
 
 |img2| Le bouton Éditer sert à modifier les valeurs d'une ligne dans la grille sélectionnée.
