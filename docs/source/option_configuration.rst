@@ -20,7 +20,7 @@ Afficher ou cacher les champs (colonnes) sur la grille principale
 	*Figure 26 : afficher/cacher les champs*
 
 1. Cliquez sur la propriété « listDisplay » de la liste.
-2. Pour afficher ou cacher les champs, crochez ou décrochez la caisse située à gauche du nom du champ.
+2. Pour afficher ou cacher les champs, cochez ou décochez la caisse située à gauche du nom du champ.
 3. Ensuite, enregistrez les changements en cliquant sur le bouton |img| Mettre à jour la méta.
 
 Changer l'ordre d'apparition des champs (colonnes) sur la grille principale
