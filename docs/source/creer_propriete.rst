@@ -36,9 +36,9 @@ Créer une nouvelle propriété à partir du menu principal
 
  - la description de l'entité (information optionnelle);
 
- - crochez la caisse de la clé primaire si la propriété est la clé de l'entité. Quand vous crochez cette caisse, la caisse de 
+ - cochez la caisse de la clé primaire si la propriété est la clé de l'entité. Quand vous cochez cette caisse, la caisse de 
    Réquis est crochée automatiquement. Si la propriété n'est pas une clé primaire, mais que la propriété est obligatoire, 
-   crochez la caisse Réquis. La caisse Clé étrangère est crochée automatiquement par l'application et elle est disponible en 
+   cochez la caisse Réquis. La caisse Clé étrangère est crochée automatiquement par l'application et elle est disponible en 
    lecture seulement;
 
  - sélectionnez le Type de base (information optionnelle). Le type de base par défaut est string. Si le choix de type de base 
@@ -82,9 +82,9 @@ Créer une nouvelle propriété à partir du formulaire de l'entité
 
  - la description de l'entité (information optionnelle);
 
- - Crochez la caisse de la clé primaire si la propriété est la clé de l'entité. Quand vous crochez cette caisse, la caisse de 
+ - Cochez la caisse de la clé primaire si la propriété est la clé de l'entité. Quand vous cochez cette caisse, la caisse de 
    Réquis est crochée automatiquement. Si la propriété n'est pas une clé primaire, mais que la propriété est obligatoire, 
-   crochez la caisse Réquis. La caisse Clé étrangère est crochée automatiquement par l'application et elle est disponible en 
+   cochez la caisse Réquis. La caisse Clé étrangère est crochée automatiquement par l'application et elle est disponible en 
    lecture seulement;
 
  - Sélectionnez le Type de base (information optionnelle). Le type de base par défaut est string. Si le choix de type de base 
