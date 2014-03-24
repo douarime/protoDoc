@@ -4,7 +4,7 @@ Aide en ligne de l'application web CeRTAE ProtoExt
 CeRTAE ProtoExt propose une approche basée sur la méthode DATARUN. Cette approche consiste à réaliser les interfaces 
 d'une application par la construction de vues à partir d'un modèle de données standard.
 
-Cette documentation présente un guide d'utilisation aux utilisateurs de cette application. 
+Cette documentation présente un guide pour les utilisateurs de cette application. 
 
 .. _contents:
 
@@ -54,6 +54,7 @@ Prototypage
    :maxdepth: 1
 
    demarche_prototypage
+
    
 Entrer le modèle dans l'application du prototypeur
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -66,12 +67,3 @@ Entrer le modèle dans l'application du prototypeur
    creer_propriete
    creer_relation
    generer_modele_conceptuel_graphique
-
-Rechercher
-^^^^^^^^^^
-
-.. - :ref:`genindex`
-
-.. - :ref:`modindex`
-
-- :ref:`search`
