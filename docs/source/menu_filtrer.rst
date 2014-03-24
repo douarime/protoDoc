@@ -5,9 +5,6 @@ Menu des fonctions : filtrer
 	
 	*Figure 6 : fonction filtrer.*
 
-Filtrer le contenu de la grille
-"""""""""""""""""""""""""""""""
-
 La fonction **filtrer** filtre le contenu de la grille principale de l'onglet sélectionné. Le filtrage s'applique sur plusieurs 
 critères, par exemple, la colonne « nom » et la colonne « description » de l'onglet active. Les critères pour filtrer peuvent 
 être personnalisés, pour ce faire, il est nécessaire d'avoir un compte avec les permissions d'admin.
@@ -15,6 +12,7 @@ critères, par exemple, la colonne « nom » et la colonne « description » de 
 Entrez l'expression de recherche dans le champ texte du menu de fonctions. Les expressions peuvent être en majuscules ou 
 minuscules.
 
+.. note::
 **Attention**: si le mot contient des accents, écrivez-le tel quel en respectant les accents, sinon, la fonction ne retournera 
 pas des résultats.
 
