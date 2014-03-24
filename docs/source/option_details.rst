@@ -17,7 +17,7 @@ Activer ou désactiver les détails
 
 	*Figure 23 : liste de détails.*
 
-Pour activer ou désactiver les détails, crochez ou décrochez la caisse située à gauche du détail.
+Pour activer ou désactiver les détails, cochez ou décochez la caisse située à gauche du détail.
 
 Ensuite, enregistrez les changements en cliquant sur le bouton |img| Mettre à jour la méta.
 
