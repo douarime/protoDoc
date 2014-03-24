@@ -1,5 +1,5 @@
-Organisation de l'interface web de l'application Prototypeur
-============================================================
+Organisation de l'interface
+===========================
 
 	.. figure:: ./images/interface.png
 	
