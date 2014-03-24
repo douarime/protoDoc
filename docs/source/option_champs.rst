@@ -18,7 +18,7 @@ Activer ou désactiver les champs
 	
 	*Figure 21 : liste de champs.*
 
-Pour activer ou désactiver les champs, crochez ou décrochez la caisse située à gauche du champ. L'icône du dossier signifie 
+Pour activer ou désactiver les champs, cochez ou décochez la caisse située à gauche du champ. L'icône du dossier signifie 
 que d'autres champs se trouvent à l'intérieur du dossier. Pour montrer les champs d'un dossier, cliquez sur le triangle blanc 
 situé à gauche de l'icône dossier.
 
