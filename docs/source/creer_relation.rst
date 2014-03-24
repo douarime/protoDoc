@@ -28,7 +28,7 @@ Créer une nouvelle relation à partir du menu principal
 
  - le nom de l'entité enfant (information obligatoire). Cliquez sur le bouton |img| pour sélectionner l'entité de la liste.
 
- - crochez la caisse de la dépendance de clé si la connectivité du côté enfant est dépendante : 1,1. Si votre connectivité est 1,1 ne crochez pas cette caisse.
+ - cochez la caisse de la dépendance de clé si la connectivité du côté enfant est dépendante : 1,1. Si votre connectivité est 1,1 ne cochez pas cette caisse.
 
  - la description de la relation (information optionnelle).
  
@@ -54,7 +54,7 @@ Créer une nouvelle relation à partir du formulaire de l'entité
 
  - le nom de l'entité enfant (information obligatoire). Cliquez sur le bouton |img| pour sélectionner l'entité de la liste.
 
- - crochez la caisse de la dépendance de clé si la connectivité du côté enfant est dépendante : 1,1. Si votre connectivité est 1,1, ne crochez pas cette caisse.
+ - cochez la caisse de la dépendance de clé si la connectivité du côté enfant est dépendante : 1,1. Si votre connectivité est 1,1, ne cochez pas cette caisse.
 
  - la description de la relation (information optionnelle).
  
