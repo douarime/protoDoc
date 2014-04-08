@@ -13,8 +13,9 @@ Entrez l'expression de recherche dans le champ texte du menu de fonctions. Les e
 minuscules.
 
 .. note::
-*Si le mot contient des accents, écrivez-le tel quel en respectant les accents, sinon, la fonction ne retournera 
-pas des résultats*.
+
+ *Si le mot contient des accents, écrivez-le tel quel en respectant les accents, sinon, la fonction ne retournera 
+ pas des résultats*.
 
 |img1| Cliquez sur le bouton **filtrer** du menu.
 
