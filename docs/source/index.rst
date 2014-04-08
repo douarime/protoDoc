@@ -1,69 +1,22 @@
-Aide en ligne de l'application web CeRTAE ProtoExt
-==================================================
+.. protoDoc documentation master file, created by
+   sphinx-quickstart on Tue Apr  8 16:44:59 2014.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
 
-CeRTAE ProtoExt propose une approche basée sur la méthode DATARUN. Cette approche consiste à réaliser les interfaces 
-d'une application par la construction de vues à partir d'un modèle de données standard.
+Welcome to protoDoc's documentation!
+====================================
 
-Cette documentation présente un guide pour les utilisateurs de cette application. 
+Contents:
 
-.. _contents:
-
-Structure de l'interface web du Prototypeur
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. toctree::
-   :maxdepth: 1
-   
-   organisation_interface
-   menu_principal
-   barre_message
+   :maxdepth: 2
 
 
-Grille principale et ses fonctions
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. toctree::
-   :maxdepth: 1
 
-   presentation_grille
-   menu_filtrer
-   menu_editer
-   menu_classer
-   menu_executer
-   menu_navigation
-   menu_imprimer
-   menu_configuration
+Indices and tables
+==================
 
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
 
-Options de la fonction configuration
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. toctree::
-   :maxdepth: 1
-
-   option_formulaire
-   option_champs
-   option_details
-   option_configuration
-   option_meta
-   personnaliser_formulaire
-   personnaliser_champs
-   personnaliser_grille
-
-     
-Prototypage
-^^^^^^^^^^^
-.. toctree::
-   :maxdepth: 1
-
-   demarche_prototypage
-
-   
-Entrer le modèle dans l'application du prototypeur
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. toctree::
-   :maxdepth: 1
-   
-   creer_projet
-   creer_modele
-   creer_entite
-   creer_propriete
-   creer_relation
-   generer_modele_conceptuel_graphique
