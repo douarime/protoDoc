@@ -1,0 +1,139 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Personnaliser la grille &mdash; documentation protoDoc 0.0.1</title>
+    
+    <link rel="stylesheet" href="../static/default.css" type="text/css" />
+    <link rel="stylesheet" href="../static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '../',
+        VERSION:     '0.0.1',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="../static/jquery.js"></script>
+    <script type="text/javascript" src="../static/underscore.js"></script>
+    <script type="text/javascript" src="../static/doctools.js"></script>
+    <script type="text/javascript" src="../static/translations.js"></script>
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <link rel="top" title="documentation protoDoc 0.0.1" href="../index.html" />
+    <link rel="next" title="Démarche et pratique du prototypage" href="demarche_prototypage.html" />
+    <link rel="prev" title="Personnaliser les champs" href="personnaliser_champs.html" /> 
+  </head>
+  <body>
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../genindex.html" title="Index général"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="demarche_prototypage.html" title="Démarche et pratique du prototypage"
+             accesskey="N">suivant</a> |</li>
+        <li class="right" >
+          <a href="personnaliser_champs.html" title="Personnaliser les champs"
+             accesskey="P">précédent</a> |</li>
+        <li><a href="../index.html">documentation protoDoc 0.0.1</a> &raquo;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <div class="section" id="personnaliser-la-grille">
+<h1>Personnaliser la grille<a class="headerlink" href="#personnaliser-la-grille" title="Lien permanent vers ce titre">¶</a></h1>
+<p>Les exemples de personnalisation suivants montrent comment réaliser la configuration de base pour réussir une interface
+fonctionnelle et présentable. Vous êtes invités à explorer dans votre espace travail de l&#8217;application les propriétés non
+mentionnées dans cette guide.</p>
+<p><strong>Propriété gridConfig</strong></p>
+<blockquote>
+<div><img alt="../images/metagridconf.png" src="../images/metagridconf.png" />
+<p><em>Figure 30 : personnalisation de la grille.</em></p>
+</div></blockquote>
+<ol class="arabic simple">
+<li>Ouvrez le contenu du dossier gridConfig en cliquant sur le triangle blanc situé à gauche du dossier;</li>
+<li>Sélectionnez de la liste la valeur à personnaliser;</li>
+<li>Modifiez les valeurs;</li>
+<li>Ensuite, enregistrez les changements en cliquant sur le bouton <img alt="img" src="../images/saveform.png" /> Mettre à jour la méta.</li>
+</ol>
+<p><strong>Valeurs :</strong></p>
+<p><strong>gridConfig -&gt; hideRowNumbers</strong> valeur booléenne qui sert à afficher ou cacher sur la grille les numéros de lignes.</p>
+<p><strong>gridConfig -&gt; exportCsv</strong> valeur booléenne qui sert à activer ou désactiver la fonctionnalité d&#8217;exportation en format CSV.
+Notez que la fonction exportCsv exporte la liste complète de résultats et non seulement ceux qui sont affichés dans la page active.
+La fonction « exportCsv » apparaît à l&#8217;intérieur de la fonction « imprimer » du menu de fonctions. (voir <a class="reference internal" href="menu_imprimer.html"><em>imprimer</em></a>).</p>
+<p><strong>listDisplay</strong> sert à personnaliser l&#8217;affichage et l&#8217;ordre d&#8217;apparition de champs sur la grille (voir <a class="reference internal" href="option_configuration.html"><em>option configuration</em></a>).</p>
+<p><strong>searchFields</strong> sert à choisir les champs qui seront pris en compte au moment de faire une recherche sur le contenu de la grille.
+Cette propriété est utilisée avec la propriété « searchable » d&#8217;un champ.</p>
+<p><strong>sortFields</strong> sert à choisir les champs qui seront pris en compte au moment de faire le classement du contenu de la grille.
+Cette propriété est utilisée avec la propriété « sortable » d&#8217;un champ.</p>
+<p><strong>hiddenFields</strong> sert à choisir les champs qui ne seront pas affichés dans la grille. Notez que cette fonctionnalité cache un
+champ à l&#8217;affichage, elle ne l&#8217;efface pas de l&#8217;application.</p>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar">
+        <div class="sphinxsidebarwrapper">
+  <h4>Sujet précédent</h4>
+  <p class="topless"><a href="personnaliser_champs.html"
+                        title="Chapitre précédent">Personnaliser les champs</a></p>
+  <h4>Sujet suivant</h4>
+  <p class="topless"><a href="demarche_prototypage.html"
+                        title="Chapitre suivant">Démarche et pratique du prototypage</a></p>
+  <h3>Cette page</h3>
+  <ul class="this-page-menu">
+    <li><a href="../sources/pages/personnaliser_grille.txt"
+           rel="nofollow">Montrer la source</a></li>
+  </ul>
+<div id="searchbox" style="display: none">
+  <h3>Recherche rapide</h3>
+    <form class="search" action="../search.html" method="get">
+      <input type="text" name="q" />
+      <input type="submit" value="Go" />
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+    <p class="searchtip" style="font-size: 90%">
+    Saisissez un mot clef ou un nom de module, classe ou fonction.
+    </p>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../genindex.html" title="Index général"
+             >index</a></li>
+        <li class="right" >
+          <a href="demarche_prototypage.html" title="Démarche et pratique du prototypage"
+             >suivant</a> |</li>
+        <li class="right" >
+          <a href="personnaliser_champs.html" title="Personnaliser les champs"
+             >précédent</a> |</li>
+        <li><a href="../index.html">documentation protoDoc 0.0.1</a> &raquo;</li> 
+      </ul>
+    </div>
+    <div class="footer">
+        &copy; Copyright 2014, Marieme Doua, Gabriela Nino de Rivera, Certae ulaval.
+      Mis à jour le Apr 09, 2014.
+      Créé avec <a href="http://sphinx-doc.org/">Sphinx</a> 1.2.2.
+    </div>
+  </body>
+</html>
