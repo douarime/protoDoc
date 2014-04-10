@@ -1,5 +1,5 @@
-Aide en ligne de l'application web CeRTAE ProtoExt
-==================================================
+CeRTAE ProtoExt
+###############
 
 CeRTAE ProtoExt propose une approche basée sur la méthode DATARUN. Cette approche consiste à réaliser les interfaces 
 d'une application par la construction de vues à partir d'un modèle de données standard.
@@ -9,7 +9,7 @@ Cette documentation présente un guide pour les utilisateurs de cette applicatio
 .. _contents:
 
 Structure de l'interface web du Prototypeur
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+*******************************************
 .. toctree::
    :maxdepth: 1
    
@@ -19,7 +19,7 @@ Structure de l'interface web du Prototypeur
 
 
 Grille principale et ses fonctions
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+==================================
 .. toctree::
    :maxdepth: 1
 
@@ -34,7 +34,7 @@ Grille principale et ses fonctions
 
 
 Options de la fonction configuration
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+====================================
 .. toctree::
    :maxdepth: 1
 
@@ -49,7 +49,7 @@ Options de la fonction configuration
 
      
 Prototypage
-^^^^^^^^^^^
+***********
 .. toctree::
    :maxdepth: 1
 
