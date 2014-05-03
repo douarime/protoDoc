@@ -10,12 +10,14 @@ Cette documentation présente un guide pour les utilisateurs de cette applicatio
 
 
 Table de matière
-================
+****************
 
-.. _installing:
+
+.. _contents:
 
 La structure de l'interface
-****************************
+===========================
+
 .. toctree::
    :maxdepth: 3
    
@@ -23,7 +25,8 @@ La structure de l'interface
    pages/menu_fonctions
    
 La configuration de l'application
-*********************************
+=================================
+
 .. toctree::
    :maxdepth: 3
    
@@ -35,7 +38,8 @@ La configuration de l'application
    
 
 Prototypage
-***********
+===========
+
 .. toctree::
    :maxdepth: 4
 
@@ -43,7 +47,8 @@ Prototypage
 
 
 Applications
-************
+============
+
 .. toctree::
    :maxdepth: 3
    
@@ -52,7 +57,8 @@ Applications
       
 
 Annexes
-********
+=======
+
 .. toctree::
    :maxdepth: 1   
    
