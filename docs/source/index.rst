@@ -9,8 +9,8 @@ Cette approche consiste à réaliser les interfaces d'une application par la con
 Cette documentation présente un guide pour les utilisateurs de cette application. 
 
 
-Table of Contents
-=================
+Table de matière
+================
 
 .. _installing:
 
